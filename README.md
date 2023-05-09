@@ -9,3 +9,5 @@ comand 6 /roll
 comand 7 /cat
 comand 8 /dog
 comand 9 /dadjoke
+
+my discord is (https://discord.gg/M27cn7CmCy)
